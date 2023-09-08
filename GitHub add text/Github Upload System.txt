@@ -1,0 +1,17 @@
+![akhane alter text na dile o cholbe](akhane image permalink)
+
+github upaload process
+
+git init < ata new repo create korar time a akbar large>
+git remote add origin <akhane repo link hobe and ata new repo er khetre korlei hobe.>
+
+git add . (ata kon change kore upload korar somy protibar lagbe)
+
+git commit -m "comment akhane likhte hobe"
+
+git push -u origin master (new repo add korar time a akbar lagbe.) 
+ 
+or git push (ata new repo create hoye gele lagbe)
+
+
+
