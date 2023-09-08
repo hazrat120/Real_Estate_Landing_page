@@ -1,56 +1,99 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-ul,ol{
-    list-style: none;
+ul,
+ol {
+  list-style: none;
 }
 
-a{
-text-decoration: none;
+a {
+  text-decoration: none;
 }
-.containter{
-    width: 1166px;
-    margin: 0 auto;
-}
-
-
-
-/* nav bvar start */
-
-.nav_item{
-    display: flex;
-    justify-content: space-between;
-}
-.logo{
-    margin-top: 57px;
-}
-.menu ul{
-    display: flex;
-}
-.menu{
-margin-top: 63px;
-}
-.nav_manu{
-    display: flex;
-    gap: 100px;
-    color: #203239;
-    font-family: Poppins;
-    font-size: 16px;
-    font-weight: 300;
+.containter {
+  width: 1166px;
+  margin: 0 auto;
 }
 
-.nav_manu li:nth-child(1){
-    color: #203239;
-    font-family: Poppins;
-    font-size: 16px;
-    font-weight: 600;
-    
+/*========= nav bar start========= */
+.van_main {
+  background: #eeedde;
 }
-.nav_manu li:nth-child(3){
-    align-items: center;
-    display: flex;
-    gap: 4px;
+.logo {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  gap: 1px;
 }
+
+.logo h6 {
+  color: #203239;
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.logo p {
+  color: #203239;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 600;
+}
+.nav_item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu ul {
+  display: flex;
+}
+.menu {
+  margin-top: 63px;
+}
+.nav_manu {
+  display: flex;
+  gap: 100px;
+  color: #203239;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.nav_manu li:nth-child(1) {
+  color: #203239;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+}
+.nav_manu li:nth-child(3) {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+}
+
+/*======= Nav bar End===== */
+
+/* =========Header Part Start======= */
+.head {
+  height: 830px;
+  width: 100%;
+}
+/* =========Header part End========= */
+
+/* =========Header Part Start======= */
+/* =========Header part End========= */
+
+/* =========Header Part Start======= */
+/* =========Header part End========= */
+
+/* =========Header Part Start======= */
+/* =========Header part End========= */
+
+/* =========Header Part Start======= */
+/* =========Header part End========= */
+
+/* =========Header Part Start======= */
+/* =========Header part End========= */
